@@ -1,4 +1,4 @@
-# Social-Network-Data-Analysis
+# Social Network Data Analysis Using Neo4j - Workshop materials
 Social Network Data Analysis Using Neo4j - Workshop materials  
 Presentation Slides : [PDF](https://github.com/amirabbasasadi/Social-Network-Data-Analysis/raw/master/Social%20Network%20Data%20Analysis.pdf)
 
